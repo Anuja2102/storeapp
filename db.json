@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Iphones17",
+      "productPrice": "130000",
+      "productCategory": "phone",
+      "isAvailable": "true"
+    },
+    {
+      "id": "1",
+      "productName": "Iphones17  ",
+      "productPrice": "130000",
+      "productCategory": "phone",
+      "isAvailable": true
+    }
+  ]
+}
